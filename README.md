@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Bijoy Kar</h1>
 <h3 align="center">Student || Web Developer || Tech Lover || Learner</h3>
 
+ ***I am a Student at Swami Vivekananda University. I am pursuing B.Tech in Computer Science and Engineering. Coding and Technologies are my passion. I am always trying to learn new things. I am not the smartest one but I can learn and I have confidence in my learning.***
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iambijoykar&label=Profile%20views&color=0e75b6&style=flat" alt="iambijoykar" /> </p>
 
 <p align="left"> <a href="https://twitter.com/iambijoykar" target="blank"><img src="https://img.shields.io/twitter/follow/iambijoykar?logo=twitter&style=for-the-badge" alt="iambijoykar" /></a> </p>
