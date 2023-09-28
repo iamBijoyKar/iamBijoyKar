@@ -1,3 +1,4 @@
+[![An image of @iambijoykar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/iambijoykar)](https://holopin.io/@iambijoykar)
 <h1 align="center">Hi 👋, I'm Bijoy Kar</h1>
 <h3 align="center">Student || Full Stack Web Developer || Tech Lover || Learner</h3>
 
