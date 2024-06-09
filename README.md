@@ -2,6 +2,12 @@
 <h1 align="center">Hi 👋, I'm Bijoy Kar</h1>
 <h3 align="center">Student || Full Stack Web Developer || Tech Lover || Learner</h3>
 
+<div align="center"> 
+  
+  Managing ***[TechStarHub](https://github.com/TechStarHub)*** Github Oranization. Here we help out beginner developers with open source, by providing them beginner friendly but real world projects. Also we build awesome projects with real-world application. We welcome new members warmly. Please feel free to join 🥳. 
+
+</div>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iambijoykar&label=Profile%20views&color=0e75b6&style=flat" alt="iambijoykar" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iambijoykar" alt="iambijoykar" /></a> </p>
