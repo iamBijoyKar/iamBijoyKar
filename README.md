@@ -95,34 +95,10 @@ Managing **_[TechStarHub](https://github.com/TechStarHub)_** Github Oranization.
 <br clear="both">
 
 <h2 align="center">
-  Some of the Highlights of my Projects 👑
-</h2>
-
-<details align="center">
-<summary>
-  View the Highlighted Projects
-
-</summary>
-
-| Project | Description                                                                                                                                    | Link                                                | Status          |
-| ------- | ---------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- | --------------- |
-| Srot    | Srot is a flow editor that allows you to create flow diagrams with ease.                                                                       | [**_Link_**](https://srot-flow.vercel.app/)         | _On Devlopment_ |
-| JsonDB  | JsonDB is a simple Json Database made with C++. You can create and make queries to the database using the CLI application.                     | [**_Link_**](https://github.com/iamBijoyKar/jsondb) | _On Devlopment_ |
-| Jamun   | A simple and lightweight Static Site Generator with features like markdown support, directory structure routing, and more.                     | [**_Link_**](https://github.com/iamBijoyKar/jamun)  | _On Devlopment_ |
-| X-Code  | A very simple and lightweight code editor built with Tauri and React. It has a very simple and clean user interface and is very easy to use.   | [**_Link_**](https://github.com/iamBijoyKar/x-code) | _On Devlopment_ |
-| Luna    | Luna is an ollama wrapper with extra features. Written in JavaScript.                                                                          | [**_Link_**](https://github.com/iamBijoyKar/luna)   | _On Devlopment_ |
-| Amber   | Amber is a custom made Neural Network library written in Python. I am build this libray to learn more about Neural Networks and how they work. | [**_Link_**](https://github.com/iamBijoyKar/amber)  | _On Devlopment_ |
-
-</details>
-
-<br clear="both" />
-
-<h2 align="center">
   Work Experiences 👷‍♂️
 </h2>
 
-<details align="center">
-<summary> View My Work Experiences </summary>
+<div align="center">
 
 ```mermaid
 journey
@@ -135,4 +111,24 @@ journey
       Tailwindcss: 7: Skill
       Redux: 6: Skill
 ```
-</details>
+</div>
+
+<br clear="both">
+
+<h2 align="center">
+  Some of the Highlights of my Projects 👑
+</h2>
+
+
+| Project | Description                                                                                                                                    | Link                                                | Status          |
+| ------- | ---------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- | --------------- |
+| Srot    | Srot is a flow editor that allows you to create flow diagrams with ease.                                                                       | [**_Link_**](https://srot-flow.vercel.app/)         | _On Devlopment_ |
+| JsonDB  | JsonDB is a simple Json Database made with C++. You can create and make queries to the database using the CLI application.                     | [**_Link_**](https://github.com/iamBijoyKar/jsondb) | _On Devlopment_ |
+| Jamun   | A simple and lightweight Static Site Generator with features like markdown support, directory structure routing, and more.                     | [**_Link_**](https://github.com/iamBijoyKar/jamun)  | _On Devlopment_ |
+| X-Code  | A very simple and lightweight code editor built with Tauri and React. It has a very simple and clean user interface and is very easy to use.   | [**_Link_**](https://github.com/iamBijoyKar/x-code) | _On Devlopment_ |
+| Luna    | Luna is an ollama wrapper with extra features. Written in JavaScript.                                                                          | [**_Link_**](https://github.com/iamBijoyKar/luna)   | _On Devlopment_ |
+| Amber   | Amber is a custom made Neural Network library written in Python. I am build this libray to learn more about Neural Networks and how they work. | [**_Link_**](https://github.com/iamBijoyKar/amber)  | _On Devlopment_ |
+
+
+<br clear="both" />
+
