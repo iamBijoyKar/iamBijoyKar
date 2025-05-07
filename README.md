@@ -1,6 +1,10 @@
 [![An image of @iambijoykar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/iambijoykar)](https://holopin.io/@iambijoykar)
 
 <h1 align="center">Hi 👋, I'm Bijoy Kar</h1>
+
+![icons8-check-mark (1)](https://github.com/user-attachments/assets/ac0437f7-7247-40c4-b43a-b976189fad8a)
+
+
 <h3 align="center">Full Stack Web Developer</h3>
 <h4 align="center">
 <img src="https://www.svgrepo.com/show/116159/location-marker.svg" width="13" alt="location"/>
