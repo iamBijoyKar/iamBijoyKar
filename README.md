@@ -3,12 +3,10 @@
 
 <div dir='rtl' align="center">
   <kbd>
-    <span border="1">Open for Hire</span>
+    <span border="1">Open for Work</span>
     <img align="" src="https://github.com/user-attachments/assets/ac0437f7-7247-40c4-b43a-b976189fad8a" width="20" height="20" alt="check gif"/>
   </kbd> 
 </div>
-
-<br clear="both">
 
 <h1 align="center">Hi 👋, I'm Bijoy Kar</h1>
 <h3 align="center">Full Stack Web Developer</h3>
@@ -123,14 +121,18 @@ Managing **_[TechStarHub](https://github.com/TechStarHub)_** Github Oranization.
   Work Experiences 👷‍♂️
 </h2>
 
+<details align="center">
+<summary> View My Work Experiences </summary>
+
 ```mermaid
 journey
     title Work Experience
     section ISP Candidate Exp
-      Sales: 4
-      Marketing: 3
+      Sales: 3: Skill
+      Marketing: 4: Skill
     section Junior Fontend Dev Exp
-      React: 8
-      Tailwindcss: 7
-      Redux: 6
+      React: 8: Skill
+      Tailwindcss: 7: Skill
+      Redux: 6: Skill
 ```
+</details>
