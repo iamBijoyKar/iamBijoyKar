@@ -1,10 +1,8 @@
 [![An image of @iambijoykar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/iambijoykar)](https://holopin.io/@iambijoykar)
 
-
 <div dir='rtl' align="center">
   <kbd>
-    <span border="1">Open for Work</span>
-    <img align="" src="https://github.com/user-attachments/assets/ac0437f7-7247-40c4-b43a-b976189fad8a" width="20" height="20" alt="check gif"/>
+    <img align="" src="https://github.com/user-attachments/assets/41442619-710f-471a-a35d-2c4aeb18ed50" height="50" alt="check gif"/>
   </kbd> 
 </div>
 
