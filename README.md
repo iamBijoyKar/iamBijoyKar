@@ -1,10 +1,16 @@
 [![An image of @iambijoykar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/iambijoykar)](https://holopin.io/@iambijoykar)
 
+
+<div dir='rtl' align="center">
+  <kbd>
+    <span border="1">Open for Hire</span>
+    <img align="" src="https://github.com/user-attachments/assets/ac0437f7-7247-40c4-b43a-b976189fad8a" width="20" height="20" alt="check gif"/>
+  </kbd> 
+</div>
+
+<br clear="both">
+
 <h1 align="center">Hi 👋, I'm Bijoy Kar</h1>
-
-![icons8-check-mark (1)](https://github.com/user-attachments/assets/ac0437f7-7247-40c4-b43a-b976189fad8a)
-
-
 <h3 align="center">Full Stack Web Developer</h3>
 <h4 align="center">
 <img src="https://www.svgrepo.com/show/116159/location-marker.svg" width="13" alt="location"/>
@@ -80,7 +86,7 @@ Introduction: Full Stack Web Developer specializing in React and Next.js, with a
 ###
 
 <div align="center"> 
-  <h2>TechStarHub Oranization </h2>
+  <h3>TechStarHub Oranization </h3>
 
 Managing **_[TechStarHub](https://github.com/TechStarHub)_** Github Oranization. Here we help out beginner developers with open source, by providing them beginner friendly but real world projects. Also we build awesome projects with real-world application. We welcome new members warmly. Please feel free to join 🥳.
 
@@ -90,9 +96,15 @@ Managing **_[TechStarHub](https://github.com/TechStarHub)_** Github Oranization.
 
 <br clear="both">
 
-<div align="center">
+<h2 align="center">
+  Some of the Highlights of my Projects 👑
+</h2>
 
-## Some of the Highlights of my Projects 👑
+<details align="center">
+<summary>
+  View the Highlighted Projects
+
+</summary>
 
 | Project | Description                                                                                                                                    | Link                                                | Status          |
 | ------- | ---------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- | --------------- |
@@ -103,4 +115,22 @@ Managing **_[TechStarHub](https://github.com/TechStarHub)_** Github Oranization.
 | Luna    | Luna is an ollama wrapper with extra features. Written in JavaScript.                                                                          | [**_Link_**](https://github.com/iamBijoyKar/luna)   | _On Devlopment_ |
 | Amber   | Amber is a custom made Neural Network library written in Python. I am build this libray to learn more about Neural Networks and how they work. | [**_Link_**](https://github.com/iamBijoyKar/amber)  | _On Devlopment_ |
 
-</div>
+</details>
+
+<br clear="both" />
+
+<h2 align="center">
+  Work Experiences 👷‍♂️
+</h2>
+
+```mermaid
+journey
+    title Work Experience
+    section ISP Candidate Exp
+      Sales: 4
+      Marketing: 3
+    section Junior Fontend Dev Exp
+      React: 8
+      Tailwindcss: 7
+      Redux: 6
+```
