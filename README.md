@@ -1,13 +1,6 @@
 [![An image of @iambijoykar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/iambijoykar)](https://holopin.io/@iambijoykar)
 
-<div dir='rtl' align="center">
-  <kbd>
-    <img align="" src="https://github.com/user-attachments/assets/41442619-710f-471a-a35d-2c4aeb18ed50" height="50" alt="check gif"/>
-  </kbd> 
-</div>
-
-<br clear="both">
-
+$${\color{black}\#\color{orange}OPEN \space \color{white}FOR \space \color{green} WORK! }$$ 
 
 <h1 align="center">Hi 👋, I'm Bijoy Kar</h1>
 <h3 align="center">Full Stack Web Developer</h3>
@@ -96,7 +89,7 @@ Managing **_[TechStarHub](https://github.com/TechStarHub)_** Github Oranization.
 <br clear="both">
 
 <h2 align="center">
-  Work Experiences 👷‍♂️
+  Real World Work Experiences 👷‍♂️
 </h2>
 
 <div align="center">
@@ -112,24 +105,21 @@ journey
       Tailwindcss: 7: Skill
       Redux: 6: Skill
 ```
+
 </div>
 
 <br clear="both">
 
 <h2 align="center">
-  Some of the Highlights of my Projects 👑
+  Some of the Highlights of my Projects (not mentioned on pinned below) 👑
 </h2>
 
-
-| Project | Description                                                                                                                                    | Link                                                | Status          |
-| ------- | ---------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- | --------------- |
-| Srot    | Srot is a flow editor that allows you to create flow diagrams with ease.                                                                       | [**_Link_**](https://srot-flow.vercel.app/)         | _On Devlopment_ |
-| JsonDB  | JsonDB is a simple Json Database made with C++. You can create and make queries to the database using the CLI application.                     | [**_Link_**](https://github.com/iamBijoyKar/jsondb) | _On Devlopment_ |
-| Jamun   | A simple and lightweight Static Site Generator with features like markdown support, directory structure routing, and more.                     | [**_Link_**](https://github.com/iamBijoyKar/jamun)  | _On Devlopment_ |
-| X-Code  | A very simple and lightweight code editor built with Tauri and React. It has a very simple and clean user interface and is very easy to use.   | [**_Link_**](https://github.com/iamBijoyKar/x-code) | _On Devlopment_ |
-| Luna    | Luna is an ollama wrapper with extra features. Written in JavaScript.                                                                          | [**_Link_**](https://github.com/iamBijoyKar/luna)   | _On Devlopment_ |
-| Amber   | Amber is a custom made Neural Network library written in Python. I am build this libray to learn more about Neural Networks and how they work. | [**_Link_**](https://github.com/iamBijoyKar/amber)  | _On Devlopment_ |
-
+| Project             | Description                                                                                                                                                                                             | Link                                                                 | Status          |
+| ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- | --------------- |
+| Srot                | Srot is a flow editor that allows you to create flow diagrams with ease.                                                                                                                                | [**_Link_**](https://srot-flow.vercel.app/)                          | _On Devlopment_ |
+| Useful Bash Scripts | This project contains a collection of useful Bash scripts that can be used for various purposes. Each script is designed to simplify common tasks and enhance productivity in a Bash shell environment. | [**_Link_**](https://github.com/iamBijoyKar/useful-bash-scripts)     | _On Devlopment_ |
+| Emoji Pixel Arts    | This project contains pixel art of emojis. All pixel arts are made in 32x32 canvas.                                                                                                                     | [**_Link_**](https://github.com/iamBijoyKar/emojis-pixel-art)        | _On Devlopment_ |
+| Personal Blog       | Personal Blog website, build with Astro with Svelte Components.                                                                                                                                         | [**_Link_**](https://blogbijoykar-iambijoykars-projects.vercel.app/) | _On Devlopment_ |
+| Luna                | Luna is an ollama wrapper with extra features. Written in JavaScript.                                                                                                                                   | [**_Link_**](https://github.com/iamBijoyKar/luna)                    | _On Devlopment_ |
 
 <br clear="both" />
-
