@@ -1,6 +1,6 @@
 [![An image of @iambijoykar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/iambijoykar)](https://holopin.io/@iambijoykar)
 
-$${\color{black}\#\color{orange}OPEN \space \color{white}FOR \space \color{green} WORK! }$$ 
+$$\frac{\color{black}\color{orange}OPEN \space \color{white}FOR \space \color{green} WORK! }{}$$
 
 <h1 align="center">Hi 👋, I'm Bijoy Kar</h1>
 <h3 align="center">Full Stack Web Developer</h3>
